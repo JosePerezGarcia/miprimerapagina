@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+.greeting{
+    text-align: center;
+}
 
 body{
     background-color: grey;
